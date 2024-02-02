@@ -1,4 +1,7 @@
 .DS_Store
-Data
+sourceFolder/*
 mask
 img
+NLP_env
+ntlk_data
+__pycache__/*
